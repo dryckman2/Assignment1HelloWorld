@@ -10,5 +10,5 @@
  #include <stdio.h>
 
  int main(int argc,char **argv){
-    printf("David Ryckman\n");
+    printf("David Ryckman and Matthew Bigge\n");
  }
